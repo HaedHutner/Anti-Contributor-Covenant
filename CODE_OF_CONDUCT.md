@@ -12,7 +12,7 @@ Examples of behavior that contributes to creating a constructive environment inc
 * Never forgetting to point out evident flaws in eachother's viewpoints
 * Gracefully accepting constructive criticism
 * Focusing on what is best for the project
-* Showing vigorous towards your contributions
+* Showing vigorous dedication towards your contributions
 
 ## Our Responsibilities
 
